@@ -1,0 +1,160 @@
+h1 {
+text-align: center;
+font-family: fantasy;
+font-weight: 100;
+}
+
+.luser input{
+    width: 400px;
+    height: 30px;
+    padding: 10px;
+    margin: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.luser textarea {
+    width: 450px;
+    height: 100px;
+    margin: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.luser {
+    width: 600px;
+    position: relative;
+    left: 30%;
+    background: #cfc9c9;
+    border-radius: 20px;
+}
+
+.te5tar {
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.luser button {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: large;
+    background: #67AED4;
+}
+
+
+.luser button:hover {
+    background: #4e68ec;
+}
+
+.affiche {
+    background: #cfc9c9;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.affiche h3{
+    position: absolute;
+    left: 200px;
+}
+
+.affiche .logoMte3na{ 
+    position: absolute;
+    left: 100px;
+    width: 60px;
+    height: 60px;
+}
+
+.affiche .iii{
+position: relative;
+left: 100px;
+top: 100px;
+
+}
+
+.affiche .ooo{
+    position: relative;
+    left: 100px;
+    top: 30px;
+    
+    }
+
+    .reaction .likea {
+        position: relative;
+        height: 60px;
+        width: 60px;
+        top: 80px;
+        left: 650px; 
+    }
+
+    .reaction .lovea {
+        position: relative;
+        height: 60px;
+        width: 60px;
+        bottom: 40px;
+        left: 880px; 
+    }
+
+    .reaction .wowa {
+        position: relative;
+        height: 60px;
+        width: 60px;
+        bottom: 160px;
+        left: 1100px;  
+    }
+
+    .reaction .likep {
+        position: relative;
+        height: 30px;
+        width: 30px;
+        top: 20px;
+        left: 750px; 
+    }
+
+    .reaction .lovep {
+        position: relative;
+        height: 30px;
+        width: 30px;
+        bottom: 100px;
+        left: 980px; 
+    }
+
+    .reaction .wowp {
+        position: relative;
+        height: 30px;
+        width: 30px;
+        bottom: 223px;
+        left: 1230px;  
+    }
+
+
+    .elComment {
+        width: 1200px;
+        height: 40px;
+        border-radius: 30px;
+        position: relative;
+        bottom: 170px;
+        left: 80px;
+        font-size: large;
+    }
+
+    .elbuttonC {
+        position: relative;
+        width: 150px;
+        height: 50px;
+        bottom: 170px;
+        left: 100px;
+        border-radius: 10px;
+        font-size: large;
+        background: rgba(0, 0, 255, 0.71);
+    }
+
+    .tttt {
+        background: #cfc9c9;
+    }
+
+    

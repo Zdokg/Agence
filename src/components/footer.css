@@ -1,0 +1,88 @@
+.allF { 
+    position: relative;
+    height: 500px;
+    background: #67AED4;
+    text-align: left;
+}
+
+.sfarF {
+    text-align: center;
+    font-weight: 100px;
+    font-style: italic;
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+.klmtin {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    font-weight: 400;
+    font-size: larger;
+    
+}
+
+.klmtin1 {
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    font-weight: 400;
+    font-size: larger;
+}
+
+
+.logoF {
+    position: absolute;
+    bottom: 0;
+    left: 70px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.logoF img{
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.mailek {
+    position: absolute;
+    right: 150px;
+    width: 300px;
+    text-align: center;
+    height: 30px;
+    border-radius: 30px;
+    border: black;
+}
+
+.commentF {
+    position: absolute;
+    right: 80px;
+    top: 230px;
+    width: 450px;
+    height: 150px;
+    border-radius: 15px;
+    border-style: 1px black;
+    border: black;
+}
+
+.SubF {
+    position: absolute;
+    right: 235px;
+    bottom: 50px;
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    border: black;
+    background-color: antiquewhite;
+    font-weight: bold;
+    font-size: large;
+}
+
+.SubF:hover {
+    scale: 1.2;
+}
+
+.SubF:active {
+    background: rgb(224, 186, 135);
+}

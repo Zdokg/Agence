@@ -1,0 +1,183 @@
+body {
+    background-color: #FFFF;
+}
+
+.greeting{
+    position: absolute;
+    left: 460px;
+    text-align: center;
+}
+
+.wa1 {
+    position: relative;
+    top: 200px;
+    right: 25px;
+    border-radius: 10px;
+    background: #f1efef;
+    list-style: none;
+    list-style-position: inside;
+    height: 300px;
+}
+.listP{
+    position: absolute;
+    right: 50px;
+    height: 30px;
+    top: 20px;
+}
+.tPaR{
+    position: absolute;
+    left: 480px;
+    top: 20px;
+    font-size: xx-large;
+}
+
+.pPaR{
+    position: absolute;
+    left: 480px;
+    top: 150px;
+    font-size: larger;
+
+}
+
+.PaR {
+    position: absolute;
+    left: 0;
+    height: 300px;
+    top: 0px;
+    border-radius: 20px;
+}
+.more {
+    background-color: rgb(56, 213, 56);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    right: 50px;
+    top: 200px;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+
+
+
+
+
+
+
+
+
+.wa2 {
+    position: relative;
+    top: 200px;
+    right: 25px;
+    border-radius: 10px;
+    background: #f1efef;
+    list-style: none;
+    list-style-position: inside;
+    height: 300px;
+}
+.listP{
+    position: absolute;
+    right: 50px;
+    height: 30px;
+    top: 20px;
+}
+.tPaR{
+    position: absolute;
+    left: 480px;
+    top: 20px;
+    font-size: xx-large;
+}
+
+.pPaR{
+    position: absolute;
+    left: 480px;
+    top: 150px;
+    font-size: larger;
+
+}
+
+.RaR {
+    position: absolute;
+    left: 0;
+    height: 300px;
+    top: 0px;
+    border-radius: 20px;
+}
+.more {
+    background-color: rgb(56, 213, 56);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    right: 50px;
+    top: 200px;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+
+
+
+
+
+
+
+
+
+.wa3 {
+    position: relative;
+    top: 200px;
+    right: 25px;
+    border-radius: 10px;
+    background: #f1efef;
+    list-style: none;
+    list-style-position: inside;
+    height: 300px;
+}
+.listP{
+    position: absolute;
+    right: 50px;
+    height: 30px;
+    top: 20px;
+}
+.tPaR{
+    position: absolute;
+    left: 480px;
+    top: 20px;
+    font-size: xx-large;
+}
+
+.pPaR{
+    position: absolute;
+    left: 480px;
+    top: 150px;
+    font-size: larger;
+    width: 300px;
+}
+
+.RaR {
+    position: absolute;
+    left: 0;
+    height: 300px;
+    top: 0px;
+    border-radius: 20px;
+}
+.more {
+    background-color: rgb(56, 213, 56);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    right: 50px;
+    top: 200px;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+.RaR2 {
+    position: absolute;
+    left: 0;
+    height: 300px;
+    top: 0px;
+    border-radius: 20px;
+    width: 450px;
+}

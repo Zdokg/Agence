@@ -1,0 +1,121 @@
+.TasL{
+    position: relative;
+    border-radius: 30px;
+    margin: 30px;
+}
+
+.HL {
+    position: absolute;
+    top: 200px;
+    right: 450px;
+}
+
+.KL{
+    position: absolute;
+    top: 280px;
+    right: 350px;
+    font-size: 21px;
+}
+
+.hakalmail{
+    position: absolute;
+    top: 400px;
+    right: 300px;
+    width: 450px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.hakalpass{
+    position: absolute;
+    top: 520px;
+    right: 300px;
+    width: 450px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.ForgetPass{
+    position: absolute;
+    top: 590px;
+    right: 300px;
+}
+
+.SignInL{
+    position: absolute;
+    top: 650px;
+    right: 560px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: larger;
+}
+
+.SignInL:hover{
+    background-color: #67AED4;
+}
+
+.SignInL:active{
+    background-color: #297daa;
+}
+
+
+
+
+.SignUpL{
+    position: absolute;
+    top: 650px;
+    right: 300px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: larger;
+    background: #67AED4;
+}
+
+.SignUpL:hover{
+    background-color: #2fa6e6;
+}
+
+.SignUpL:active{
+    background-color: #297daa;
+}
+
+
+
+
+.ContL{
+    position: absolute;
+    top: 700px;
+    right: 465px;
+}
+
+.LogosL1{
+    position: absolute;
+    right: 500px;
+    top: 750px;
+}
+
+.LogosL2{
+    position: absolute;
+    right: 600px;
+    top: 750px;
+}
+
+.LogosL3{
+    position: absolute;
+    right: 400px;
+    top: 750px;
+}
+
+.elPassL{
+    
+}
+
+.tchouf {
+    position: absolute;
+    top: 533px;
+    right: 320px;
+}

@@ -1,0 +1,61 @@
+body {
+    background-color: #FFFF;
+}
+
+.ch3endna{
+    position: absolute;
+    left: 625px;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+.sa1 {
+    position: relative;
+    top: 200px;
+    right: 25px;
+    border-radius: 10px;
+    background: #f1efef;
+    list-style: none;
+    list-style-position: inside;
+    height: 300px;
+}
+.slistP{
+    position: absolute;
+    right: 50px;
+    height: 30px;
+    top: 20px;
+}
+.stPaR{
+    position: absolute;
+    left: 480px;
+    top: 20px;
+    font-size: xx-large;
+}
+
+.spPaR{
+    position: absolute;
+    left: 480px;
+    top: 150px;
+    font-size: larger;
+
+}
+
+.sPaR {
+    position: absolute;
+    left: 0;
+    height: 300px;
+    top: 0px;
+    border-radius: 20px;
+    width: 450px;
+}
+.smore {
+    background-color: rgb(56, 213, 56);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    right: 50px;
+    top: 200px;
+    border-radius: 30px;
+    font-size: larger;
+}
+
