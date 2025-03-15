@@ -13,8 +13,9 @@ function Navbar(){
             <Link to="/service" class="b">SERVICE</Link>
             <Link to="/experience" class="c">EXPERIENCE</Link>
             <Link to="/login" class="d">LOGIN</Link>
+            <Link to="/account">
             <img width="50" height="50" src="https://img.icons8.com/ios/50/user-male-circle--v1.png" alt="user-male-circle--v1" className="logoUser"/>
-
+            </Link>
             </div>
         </div>
     );

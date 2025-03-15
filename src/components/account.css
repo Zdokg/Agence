@@ -1,0 +1,91 @@
+.abc1 {
+    width: 700px;
+    height: 1000px;
+    background: #67AED4; 
+    position: relative;
+    left: 600px;
+    top: 300px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    
+}
+
+.abc2 {
+    background: rgb(255, 255, 255);
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 810px;
+}
+
+.logoTofla {
+    position: absolute;
+    top: 245px;
+    left: 765px;
+    border-radius: 50%;
+}
+
+.abc3 {
+    width: 580px;
+    height: 600px;
+    position: absolute;
+    background: white;
+    top: 630px;
+    left: 660px;
+    border-radius: 50px;
+}
+
+.a1 { 
+    position: absolute;
+    top: 680px;
+    left: 720px;
+}
+.a2 { 
+    position: absolute;
+    top: 750px;
+    left: 720px;
+}
+.a3 { 
+    position: absolute;
+    top: 820px;
+    left: 720px;
+}
+.a4 { 
+    position: absolute;
+    top: 900px;
+    left: 720px;
+}
+
+.p1 { 
+    position: absolute;
+    top: 657px;
+    left: 770px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+.p2 { 
+    position: absolute;
+    top: 730px;
+    left: 770px;
+    font-family: fantasy;
+    font-size: x-large;
+}
+
+.p3  { 
+    position: absolute;
+    top: 800px;
+    left: 770px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+.p4 { 
+    position: absolute;
+    top: 890px;
+    left: 770px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
